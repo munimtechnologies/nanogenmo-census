@@ -35,3 +35,16 @@ Python 3.10+, standard library only. It uses GitHub's public API without a token
 ## Not affiliated
 
 This is an independent study. It is not run by or affiliated with NaNoGenMo or its organisers.
+
+## Result (added 2026-11-06)
+
+Full write-up: [census/2026-11/RESULT.md](census/2026-11/RESULT.md). Data read 2026-11-06 09:52-09:54 UTC, after the pre-registration went live at 03:58:56 UTC.
+
+- **675 completed entries in 13 years.** 56 of them name a language-model term, and 33 of those 56 put model-written text into the novel (LLM_TEXT). The other mentions are star signs, creatures named "llama", article links, and entrants explaining why they won't use a chatbot.
+- **Model-written text arrived with GPT-2 in 2019,** not with ChatGPT: 9 entries in 2019 and 6 in 2020. LLM_TEXT share: 7.0% of completed entries in 2019-2022 and 25.0% in 2023-2025. It peaked at 40.9% in 2024 and fell to 10.5% in 2025. In 2025, entries where a model only wrote code or scored choices (4) outnumber entries with model-written text (2).
+- **Predictions: five held, one failed.** P1 (Montfort's counts reproduced in 4 of 5 years), P2, P5 and P6 held. P3 (at least 30% LLM_TEXT in one year of 2023-2025) held only in 2024, the one year seen during design. P4 failed: LLM_TEXT entries link to code *more* often than the others (87.5% against 81.3%), not 10 points less.
+- The coding was done once by an AI agent. Every code has its quote in [coding.csv](census/2026-11/coding.csv), so anyone can check it.
+
+## Next: a forward forecast of NaNoGenMo 2026 (pre-registered 2026-11-06)
+
+[census/2026-forward/PREREGISTRATION.md](census/2026-forward/PREREGISTRATION.md) fixes five predictions about the 2026 edition while it is still running: at most 22 completed entries, at most 20% LLM_TEXT, LLM_OTHER at least as common as LLM_TEXT, a completion rate of at least 70%, and at least 80% linking to code. The read is on or after 2026-12-15.
